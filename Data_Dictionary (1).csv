@@ -1,0 +1,4 @@
+Name,Modeling Data Type,Description,Unit of Measurement,Input/Target
+Empl Type,qualitative - nominal,Type of Employment,"0=Full Time, 1=Part Time, 2=Contract, 3=Freelance",Input
+Experience Level,qualitative - ordinal,Level of Experience,"0=Entry, 1=Mid, 2=Senior, 3=Executive",Input
+Salary,qualitative - continuous,Salaries of Employees,USD ($),Target
